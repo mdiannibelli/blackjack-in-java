@@ -30,40 +30,34 @@ K => 10
 # Screenshots
 
 * Welcome 
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/1.jpg)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/1.jpg)
 
 * Enter your name
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/2.png)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/2.png)
 
 * Free 1000 USD
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/3.jpg)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/3.jpg)
 
 * Enter your bet
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/4.png)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/4.png)
 
 * Game start
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/5.png)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/5.png)
 
 * Random card
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/6.png)
-
-* Make decision
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/7.png)
-
-* You win 
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/8.png)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/8.png)
 
 * You lose
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/9.png)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/9.png)
 
 * Blackjack
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/10.jpg)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/10.jpg)
 
 * Draw
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/11.jpg)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/11.jpg)
 
 * You don't have more money
-![alt img](https://github.com/mdiannibelli/blackjack-in-java/tree/main/screenshots/12.jpg)
+![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/screenshots/12.jpg)
 
 # Flowchart
 ![alt img](https://github.com/mdiannibelli/blackjack-in-java/blob/main/flowchart/flowchart.png)
